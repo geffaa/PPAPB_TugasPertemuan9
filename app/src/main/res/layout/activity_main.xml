@@ -6,6 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/button_blue"
+        app:title="TravelApp"
+        app:titleTextAppearance="@style/ToolbarTitle">
+    </androidx.appcompat.widget.Toolbar>
+
     <fragment
         android:id="@+id/nav_host_fragment"
         android:layout_width="match_parent"

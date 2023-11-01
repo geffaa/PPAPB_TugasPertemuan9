@@ -9,4 +9,5 @@
         <item>Economy Class Ticket</item>
     </array>
 
+    <string name="title">TravelApp</string>
 </resources>

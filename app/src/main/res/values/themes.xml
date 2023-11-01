@@ -5,5 +5,12 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="ToolbarTitle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+    </style>
+
+
     <style name="Theme.PPAPB_TugasPertemuan9" parent="Base.Theme.PPAPB_TugasPertemuan9" />
 </resources>
